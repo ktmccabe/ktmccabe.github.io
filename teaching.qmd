@@ -3,3 +3,17 @@ title: "Teaching"
 format: html
 editor: visual
 ---
+
+I teach several courses at the undergraduate and graduate level. Please contact me for more information on any of these courses
+
+-   Elections and Participation (undergraduate)
+
+-   Psychology and Politics (undergraduate)
+
+-   Data Science for Political Science (undergraduate)
+
+-   Maximum Likelihood Estimation (doctoral)
+
+-   Experimental Methods (doctoral)
+
+I have also helped organize and instruct during the Rutgers Summer Institutes in Computational Social Science, held from 2020-2022. If you would like to help organize or provide a guest talk at [SICSS-Rutgers](https://sicss.io/2022/rutgers/) in a future year, please contact me.
