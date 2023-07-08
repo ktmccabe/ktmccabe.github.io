@@ -2,7 +2,7 @@
 title: "About Me"
 page-layout: full
 about:
-  template: trestles
+  template: jolla
 ---
 
 Hello! 
