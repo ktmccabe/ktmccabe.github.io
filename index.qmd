@@ -1,8 +1,11 @@
 ---
 title: "About Me"
 page-layout: article
+image: img/mccabekt.jpg
 about:
   template: trestles
+  image-width: 8em
+  image-shape: round
 ---
 
 I am an associate professor of political science at Rutgers University. My research focuses on political psychology, communication, and behavior in American politics. I study how people's opinions and identities shape and complicate how they engage in politics. I received my doctorate in politics from Princeton University in 2017.
