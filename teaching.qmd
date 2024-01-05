@@ -11,8 +11,10 @@ I teach several courses at the undergraduate and graduate level. Please contact 
 -   Psychology and Politics (undergraduate)
 
 -   Data Science for Political Science (undergraduate)
+    + Sample [course notes](https://katherinetmccabe.com/dsps23/)
 
 -   Maximum Likelihood Estimation (doctoral)
+    + Sample [course notes](https://katherinetmccabe.com/mle23)
 
 -   Experimental Methods (doctoral)
 
