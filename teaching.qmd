@@ -11,11 +11,15 @@ I teach several courses at the undergraduate and graduate level. Please contact 
 -   Psychology and Politics (undergraduate)
 
 -   Data Science for Political Science (undergraduate)
-    + Sample [course notes](https://katherinetmccabe.com/dsps23/)
+
+    -   Sample [course notes](https://katherinetmccabe.com/dsps25/)
 
 -   Maximum Likelihood Estimation (doctoral)
-    + Sample [course notes](https://katherinetmccabe.com/mle23)
+
+    -   Sample [course notes](https://katherinetmccabe.com/mle23)
 
 -   Experimental Methods (doctoral)
 
-I have also helped organize and instruct during the Rutgers Summer Institutes in Computational Social Science, held from 2020-2022. If you would like to help organize or provide a guest talk at [SICSS-Rutgers](https://sicss.io/2022/rutgers/) in a future year, please contact me.
+-   Political Psychology (doctoral)
+
+I have also helped organize and instruct during the Rutgers Summer Institutes in Computational Social Science, held from 2020-2022, 2024, and 2026. If you would like to help organize or provide a guest talk at [SICSS-Rutgers](https://sicss.io/2026/rutgers/) in a future year, please contact me.
